@@ -5,7 +5,7 @@
 **Kelas:** B  
 **Mata Kuliah:** IF2350073 - Keamanan Data dan Informasi (Praktikum)  
 **Dosen:** Dr. Dhendra Marutho, S.Kom., M.Kom  
-**Tanggal:** 13 Februari 2025
+**Tanggal:** 16 Januari 2026
 
 ---
 
@@ -492,4 +492,5 @@ if ($_SESSION['login_attempts'] >= 5) {
 
 
 **© 2025 - Dibuat untuk UAS Keamanan Data & Informasi**
+
 
