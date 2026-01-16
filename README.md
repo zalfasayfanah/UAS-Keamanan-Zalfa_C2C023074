@@ -1,8 +1,8 @@
 # 🔐 UAS Keamanan Data dan Informasi (Praktikum)
 
-**Nama:** Zalfa  
+**Nama:** Zalfaulislam Sayfanah  
 **NIM:** C2C023074  
-**Kelas:** B-D  
+**Kelas:** B  
 **Mata Kuliah:** IF2350073 - Keamanan Data dan Informasi (Praktikum)  
 **Dosen:** Dr. Dhendra Marutho, S.Kom., M.Kom  
 **Tanggal:** 13 Februari 2025
@@ -469,7 +469,7 @@ if ($_SESSION['login_attempts'] >= 5) {
 
 ## 👤 Informasi Mahasiswa
 
-**Nama:** Zalfa  
+**Nama:** Zalfaulislam Sayfanah  
 **NIM:** C2C023074  
 **Kelas:** B  
 **Email:** zalfaulislam@gmail.com  
@@ -492,3 +492,4 @@ if ($_SESSION['login_attempts'] >= 5) {
 
 
 **© 2025 - Dibuat untuk UAS Keamanan Data & Informasi**
+
