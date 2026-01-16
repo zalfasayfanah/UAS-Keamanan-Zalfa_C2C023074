@@ -471,9 +471,9 @@ if ($_SESSION['login_attempts'] >= 5) {
 
 **Nama:** Zalfa  
 **NIM:** C2C023074  
-**Kelas:** B-D  
-**Email:** [email mahasiswa]  
-**GitHub:** [link repository]
+**Kelas:** B  
+**Email:** zalfaulislam@gmail.com  
+
 
 ---
 
@@ -489,5 +489,6 @@ if ($_SESSION['login_attempts'] >= 5) {
 **Metode Pengumpulan:** [Sesuai instruksi dosen]
 
 ---
+
 
 **© 2025 - Dibuat untuk UAS Keamanan Data & Informasi**
